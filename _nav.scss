@@ -1,0 +1,29 @@
+.nav {
+    max-width: 1200px;
+    background-color: $white;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 15px 0px 15px;
+    margin: 0 auto;
+    ul {
+        list-style: none;
+        display: flex;
+        gap: 20px;
+    }
+
+    a {
+        text-decoration: none;
+        color: $series;
+        font-size: 14px;
+    }
+}
+
+.nav__icon {
+    ul {
+        list-style: none;
+        display: flex;
+        gap: 24px;
+    }
+}

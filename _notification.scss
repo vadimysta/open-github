@@ -1,6 +1,23 @@
 .notification {
     background-color: $blue;
-    height: 54px;
-    width: 100%;
+    span {
+        color: $white;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0%;
+        text-align: center;
+    }
+
+    .notifcation__content {
+        height: 54px;
+        max-width: 1200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+        padding: 0px 15px 0px 15px;
+    }
 }
 
