@@ -1,2 +1,10 @@
-@import url();
-@import url("./_notification.scss");/*# sourceMappingURL=index.css.map */
+.notification {
+  background-color: rgb(25, 103, 210);
+  height: 54px;
+  width: 100%;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+}/*# sourceMappingURL=index.css.map */
