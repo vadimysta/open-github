@@ -126,4 +126,13 @@ body {
   flex-direction: column;
   justify-content: center;
   gap: 22px;
-}/*# sourceMappingURL=index.css.map */
+}
+
+/*img:hover {
+    transform: rotateX(360deg);
+    transition: 1s;
+}
+
+a:hover {
+    color: blueviolet;
+}*//*# sourceMappingURL=index.css.map */
