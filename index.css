@@ -128,11 +128,11 @@ body {
   gap: 22px;
 }
 
-img:hover {
-  transform: rotateX(360deg);
-  transition: 1s;
+/*img:hover {
+    transform: rotateX(360deg);
+    transition: 1s;
 }
 
 a:hover {
-  color: blueviolet;
-}/*# sourceMappingURL=index.css.map */
+    color: blueviolet;
+}*//*# sourceMappingURL=index.css.map */
