@@ -60,7 +60,7 @@ body {
 
 .banner {
   min-height: 600px;
-  background-image: url("/img/IMAGE.jpeg");
+  background-image: url("/public/img/IMAGE.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
