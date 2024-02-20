@@ -1,4 +1,8 @@
 img:hover {
-    transform: rotateX(180deg);
+    transform: rotateX(360deg);
     transition: 1s;
+}
+
+a:hover {
+    color: blueviolet;
 }

@@ -24,7 +24,6 @@ body {
   text-decoration: none;
   border: none;
   font-family: "Roboto", sans-serif;
-  min-width: 1200px;
 }
 
 * {
@@ -130,6 +129,10 @@ body {
 }
 
 img:hover {
-  transform: rotateX(180deg);
+  transform: rotateX(360deg);
   transition: 1s;
+}
+
+a:hover {
+  color: blueviolet;
 }/*# sourceMappingURL=index.css.map */
